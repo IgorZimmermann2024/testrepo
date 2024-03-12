@@ -6,4 +6,8 @@ public class Calculator {
         return numberOne + numberTwo;
     }
 
+    public  double multiplication (double numberOne, double numberTwo){
+        return  numberOne * numberTwo;
+    }
+
 }
