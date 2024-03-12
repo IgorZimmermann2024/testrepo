@@ -11,7 +11,8 @@ public class Calculator {
     }
 
     public  double divide(double numberOne, double numberTwo){
-        return numberOne/numberTwo;
+        double result = numberOne/numberTwo;
+        return result;
     }
 
 }
